@@ -1,2 +1,2 @@
--  Hi, I’m @juliasvgomes
--  I’m studying ANÁLISE E DESENVOLVIMENTO DE SISTEMAS at UNILAVRS.
+-  👋🏻 Hi, I’m @juliasvgomes
+-  💻 I’m studying ANÁLISE E DESENVOLVIMENTO DE SISTEMAS at UNILAVRS.
